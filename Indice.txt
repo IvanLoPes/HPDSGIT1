@@ -1,3 +1,0 @@
-esto es una prueba de datos 
-
-en la proxima iteracion tenemos que cambiar las variables.
